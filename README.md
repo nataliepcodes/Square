@@ -1,6 +1,6 @@
 # Square
 
-Create a program which displays a beautiful square.
+Create a program which displays a beautiful square.\
 my_square(5,3) should display:
 
 ```
